@@ -1,5 +1,3 @@
-Network Sniffing Script
-Description
 This script is designed to sniff network traffic and extract URLs and login information from HTTP requests. It is intended to run on a Virtual Machine (VM). If you want to use it on a physical machine, additional hardware and modifications are required.
 
 Requirements
